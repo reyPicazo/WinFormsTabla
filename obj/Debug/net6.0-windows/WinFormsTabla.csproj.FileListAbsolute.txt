@@ -1,0 +1,16 @@
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.exe
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.deps.json
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.runtimeconfig.json
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.dll
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\bin\Debug\net6.0-windows\WinFormsTabla.pdb
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.Form1.resources
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.AssemblyInfo.cs
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.dll
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\refint\WinFormsTabla.dll
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.pdb
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\WinFormsTabla.genruntimeconfig.cache
+C:\Universidad\3er Semestre\PROGRAMACION II\VisualMorado\WinFormsTabla\obj\Debug\net6.0-windows\ref\WinFormsTabla.dll
